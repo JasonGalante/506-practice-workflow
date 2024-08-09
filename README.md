@@ -3,6 +3,7 @@ this assignment is as a primer for 504/507 Fall semester classes to practice a b
 
 Imported pandas as pd
 Imported numpy as np
+Imported math to round heights to 2 decimals
 
 Variables used:
 number = 5
