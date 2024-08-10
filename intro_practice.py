@@ -56,3 +56,6 @@ def weight_of_a_person(weight1):
     return f'the persons age is: {a_persons_weight}'
 
 weight_of_a_person(180)
+
+
+#this is a test to practive on push
